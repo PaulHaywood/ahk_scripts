@@ -7,7 +7,7 @@ For example, if you used the 5 minute script for 20 hours of the day, it is like
 
 USE THIS SCRIPT AT YOUR OWN RISK, ACCOUNT BAN IS POSSIBLE IF YOU ARE NOT CAREFUL
 
-How to use the script?
+<H2>How to use the script?</H2>
 
 Ideally you need a computer that you are not using, spare laptop, virtual machine etc
 
@@ -42,30 +42,30 @@ confirm button
 Next, you need to know how long to set delays for on your scripts
 Find your current running time for any given run in the dungeon
 
-Inputting your co-ordinates
+<H2>Inputting your co-ordinates</H2>
 The scripts are commented to make it easy for you to insert your x,y co-ords
 Open the script in your text editor, and replace whats already there with your new co-ords
 
 Once you are happy with this, do a test run and see if it works.
 Adjust accordingly
 
-When this script will fail?
+<H2>When this script will fail?</H2>
 Captchas - youll need to modify it, but it can be done easily
 Any notifications, such as 'claim candy?' prompts - just choose your option and tick 'do not show again', and stop/start the script
 If you change your browser window size, you will need new co-ordinates to send your mouse to
 Running on a laptop, be wary of your battery running low.
 Any notifications on screen will potentially disturb the script running
 
-Does it work with Bluestacks (or any other android/iOS emulation)?
+<H2>Does it work with Bluestacks (or any other android/iOS emulation)?</H2>
 Inm theory yes, but I have not tested it
 
-How to stop the script?
+<H2>How to stop the script?</H2>
 Ctrl-E
 
-Can I change and distribute this script?
+<H2>Can I change and distribute this script?</H2>
 Of course, do as you please with it
 
-Why have I made this script?
+<H2>Why have I made this script?</H2>
 Because wombat dungeon master is a scam and is out to ONLY get your money into their system. They do not appear to care about their users
 Even as a top top investor, bullying is rife from mods and members alike
 Take a look at their pack probabilities (greed) and visit their discord (toxicity warning)
