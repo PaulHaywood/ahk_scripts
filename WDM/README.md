@@ -48,9 +48,9 @@ If you do have the slot queue system set up, then you also will need to get the 
 <ul>
 run time (5m, 15m etc)
 
-first + button
+first plus/add button
 
-second + button... and so on (depending on how many queue slots you have)
+second plus/add button... and so on (depending on how many queue slots you have)
 
 confirm button
 </ul>
