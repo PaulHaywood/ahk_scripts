@@ -29,7 +29,8 @@ Once that is installed, you can configure the scripts
 
 The first script you will need to use is the <b>'get_coords.ahk'</b> file
 
-This script will, once executed, will create a popup on screen of your current mouse co-ordinates
+This script, once executed, will create a popup on screen of your current mouse co-ordinates
+
 Open the folder with this script inside, and highlight it (click once)
 
 Then, move your mouse to the position you wish to get the co-ords for. for example, 'start run'
