@@ -77,8 +77,17 @@ Of course, do as you please with it
 
 <H2>Why have I made this script?</H2>
 Because wombat dungeon master is a scam and is out to ONLY get your money into their system. They do not appear to care about their users
+
 Even as a top top investor, bullying is rife from mods and members alike
+
 Take a look at their pack probabilities (greed) and visit their discord (toxicity warning)
+
 Mods do not help and often insult users for even the simplest questions
+
 Hiding behind the 'this is still a beta' excuse (2 years on from launch) is not a good look
+
 More reasons that are not for this README
+
+
+<H2>Got a suggestion for something?</H2>
+Leave a comment on github :)
