@@ -76,9 +76,17 @@ If you are running this on a laptop, and it has auto power down, then you will n
 
 Alternatively, you can have just one sleep command to sleep for a certain amount of time
 
-<code> sleep 1000 </code> - This will make your system sleep for 1 second
+<code> sleep 60000 </code> - This will make your system sleep for 1 minute
 
 More information on the sleep/pause function here: https://www.autohotkey.com/docs/v1/lib/Sleep.htm
+
+As you can see, in the scripts there are multiple blocks to account for running on a laptop
+
+<H2>Which script to use?</H2>
+
+A script is named with the minutes and whether you have the slot system available
+
+For example, <b> 5m_q_random </b> indicates that this script is configured for a 5 minute run timer, and has the slot feature enabled and also has a random sleep timer implemented
 
 <H2>When this script will fail?</H2>
 Captchas - youll need to modify it, but it can be done easily
