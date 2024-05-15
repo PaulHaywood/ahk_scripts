@@ -11,6 +11,7 @@ USE THIS SCRIPT AT YOUR OWN RISK, ACCOUNT BAN IS POSSIBLE IF YOU ARE NOT CAREFUL
 
 <H2>How to use the script?</H2>
 
+<H3>Requirements</H3>
 Ideally you need a computer that you are not using, spare laptop, virtual machine etc
 
 Download and copy the scripts with a .ahk extension into any folder
@@ -21,6 +22,9 @@ Install autohotkey v2
 https://www.autohotkey.com/docs/v2/howto/Install.htm
 
 Once that is installed, you can configure the scripts
+
+<H3>Configuration</H3>
+
 The first script you will need to use is the <b>'get_coords.ahk'</b> file
 
 This script will, once executed, will create a popup on screen of your current mouse co-ordinates
