@@ -68,6 +68,18 @@ Once you are happy with this, do a test run and see if it works.
 
 Adjust accordingly
 
+<H2>Adjust your sleep time</H2>
+
+The lines that start with 'sleep' are the lines that tell your system to wait before the next command is executed
+
+If you are running this on a laptop, and it has auto power down, then you will need to have multiple sleep lines in order to keep it awake
+
+Alternatively, you can have just one sleep command to sleep for a certain amount of time
+
+<code> sleep 1000 </code> - This will make your system sleep for 1 second
+
+More information on the sleep/pause function here: https://www.autohotkey.com/docs/v1/lib/Sleep.htm
+
 <H2>When this script will fail?</H2>
 Captchas - youll need to modify it, but it can be done easily
 
