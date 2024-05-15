@@ -37,19 +37,23 @@ Make a note of them
 Rinse and repeat to find the x,y location of the following buttons:
 
 If you do not have any queue slots open in DM:
-
+<ul>
 Send into dungeon
 
 Finish run
 
-If you do have the slot queue system set up, then you also will need to get the coords for:
+</ul>
+
+If you do have the slot queue system set up, then you also will need to get the coords for these buttons:
+<ul>
 run time (5m, 15m etc)
+
 first + button
 
 second + button... and so on (depending on how many queue slots you have)
 
 confirm button
-
+</ul>
 
 Next, you need to know how long to set delays for on your scripts
 Find your current running time for any given run in the dungeon
