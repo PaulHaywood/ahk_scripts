@@ -1,7 +1,9 @@
 <H1> Automated clicking and mouse movements for Dungeon Master </H1>
 
 It is very very difficult, almost impossible to detect any automation software running on your computer
+
 As such, common detection methods rely on patterns (there is a random time built into these scripts to reduce this occurance)
+
 Having said that, to reduce your risk of an account ban, you MUST NOT use this script 24/7 for the entire season
 For example, if you used the 5 minute script for 20 hours of the day, it is likely your acount would be flagged by the manual process that is in place
 
@@ -12,7 +14,8 @@ USE THIS SCRIPT AT YOUR OWN RISK, ACCOUNT BAN IS POSSIBLE IF YOU ARE NOT CAREFUL
 Ideally you need a computer that you are not using, spare laptop, virtual machine etc
 
 Download and copy the scripts with a .ahk extension into any folder
-You will have to configure them. You can open the files in notepad++ or any text editor
+
+You will now have to configure them for your computer. You can open the files in notepad++ or any text editor
 
 Install autohotkey v2
 https://www.autohotkey.com/docs/v2/howto/Install.htm
@@ -52,10 +55,16 @@ Adjust accordingly
 
 <H2>When this script will fail?</H2>
 Captchas - youll need to modify it, but it can be done easily
+
 Any notifications, such as 'claim candy?' prompts - just choose your option and tick 'do not show again', and stop/start the script
+
 If you change your browser window size, you will need new co-ordinates to send your mouse to
+
 Running on a laptop, be wary of your battery running low.
+
 Any notifications on screen will potentially disturb the script running
+
+If you change your screen resolution
 
 <H2>Does it work with Bluestacks (or any other android/iOS emulation)?</H2>
 Inm theory yes, but I have not tested it
