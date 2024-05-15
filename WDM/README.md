@@ -56,13 +56,16 @@ confirm button
 </ul>
 
 Next, you need to know how long to set delays for on your scripts
+
 Find your current running time for any given run in the dungeon
 
 <H2>Inputting your co-ordinates</H2>
 The scripts are commented to make it easy for you to insert your x,y co-ords
+
 Open the script in your text editor, and replace whats already there with your new co-ords
 
 Once you are happy with this, do a test run and see if it works.
+
 Adjust accordingly
 
 <H2>When this script will fail?</H2>
