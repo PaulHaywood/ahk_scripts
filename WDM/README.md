@@ -47,11 +47,8 @@ Finish run
 If you do have the slot queue system set up, then you also will need to get the coords for these buttons:
 <ul>
 run time (5m, 15m etc)
-
 first + button
-
 second + button... and so on (depending on how many queue slots you have)
-
 confirm button
 </ul>
 
