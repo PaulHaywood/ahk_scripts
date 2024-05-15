@@ -18,15 +18,16 @@ Install autohotkey v2
 https://www.autohotkey.com/docs/v2/howto/Install.htm
 
 Once that is installed, you can configure the scripts
-The first script you will need to use is the 'get_coords.ahk' file
+The first script you will need to use is the <b>'get_coords.ahk'</b> file
 
 This script will, once executed, will create a popup on screen of your current mouse co-ordinates
 Open the folder with this script inside, and highlight it (click once)
+
 Then, move your mouse to the position you wish to get the co-ords for. for example, 'start run'
 Press Enter to execute the script and get the co-ords
 Make a note of them
 
-Rinse and repeat to find the x,y location of the following buttons
+Rinse and repeat to find the x,y location of the following buttons:
 
 If you do not have any queue slots open in DM:
 
