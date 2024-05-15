@@ -35,6 +35,7 @@ Open the folder with this script inside, and highlight it (click once)
 
 Then, move your mouse to the position you wish to get the co-ords for. for example, 'start run'
 Press Enter to execute the script and get the co-ords
+
 Make a note of them
 
 Rinse and repeat to find the x,y location of the following buttons:
