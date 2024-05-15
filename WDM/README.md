@@ -9,6 +9,8 @@ For example, if you used the 5 minute script for 20 hours of the day, it is like
 
 USE THIS SCRIPT AT YOUR OWN RISK, ACCOUNT BAN IS POSSIBLE IF YOU ARE NOT CAREFUL
 
+SCRIPTS ARE PROVIDED AS IS, PLEASE ADJUST ACCORDINGLY FOR YOUR SYSTEM
+
 <H2>How to use the script?</H2>
 
 <H3>Requirements</H3>
