@@ -1,4 +1,4 @@
-Automated clicking and mouse movements for Dungeon Master
+<H1> Automated clicking and mouse movements for Dungeon Master </H1>
 
 It is very very difficult, almost impossible to detect any automation software running on your computer
 As such, common detection methods rely on patterns (there is a random time built into these scripts to reduce this occurance)
